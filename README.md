@@ -1,4 +1,5 @@
-Computational Text Analysis - 9/11 and Gilmore Girls
+**Computational Text Analysis - 9/11 and Gilmore Girls
+**
 
 The goal of this project was primarily to combine two of my primary interests: teen dramas and American politics. 
 
